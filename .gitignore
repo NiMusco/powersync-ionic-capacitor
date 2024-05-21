@@ -1,0 +1,5 @@
+node_modules
+mobile/node_modules
+mobile/dist/assets
+shared/node_modules
+.env

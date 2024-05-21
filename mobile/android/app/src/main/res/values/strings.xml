@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Test Ionic</string>
+    <string name="title_activity_main">Test Ionic</string>
+    <string name="package_name">com.test.testionic</string>
+    <string name="custom_url_scheme">com.test.testionic</string>
+</resources>

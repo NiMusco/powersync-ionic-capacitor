@@ -1,0 +1,7 @@
+node_modules/
+mobile/node_modules/
+web/node_modules/
+mobile/dist/
+web/dist/
+.prettierrc.json
+.eslintrc.json
